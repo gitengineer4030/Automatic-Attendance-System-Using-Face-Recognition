@@ -9,7 +9,7 @@ import tkinter as tk
 from tkinter import messagebox
 ###########################################################################################
 class Attendance_taker():
-    def __int__(self):
+    def __init__(self):
         self.images = []
         self.person_name = []
         self.encoding_List= []
