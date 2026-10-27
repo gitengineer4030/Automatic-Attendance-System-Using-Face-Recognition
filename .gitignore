@@ -1,0 +1,6 @@
+All_packages/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
